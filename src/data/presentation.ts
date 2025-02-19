@@ -13,7 +13,7 @@ type Presentation = {
 
 const presentation: Presentation = {
   mail: "ashokkumawat4555@gmail.com",
-  title: "Hi, I’m Ashok 👋",
+  title: "Hi, I’m Ashok Kumawat👋",
   //profile: "/profile.webp",
   description:
     "I am a *Staff Developer Evangelist at Twilio*, have worked previously as Cloud, DevOps and Solutions Engineer and have been in the tech industry for *6 years*. I am passionate about helping people get into cloud and sharing my learnings in Cloud, DevOps and now Developer Relations.",
