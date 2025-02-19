@@ -1,4 +1,4 @@
-# 👨‍🚀 Rishab's Portfolio in Astro
+# 👨‍🚀 Ashok's Portfolio in Astro
 
 ![Template](https://github.com/MaeWolff/astro-portfolio-template/blob/main/public/opengraph-image.jpg)
 
