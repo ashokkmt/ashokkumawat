@@ -13,30 +13,22 @@ type Presentation = {
 
 const presentation: Presentation = {
   mail: "ashokkumawat4555@gmail.com",
-  title: "Hi, I’m Ashok Kumawat👋",
+  title: "Hi, i’m Ashok 👋",
   //profile: "/profile.webp",
   description:
-    "I am a *Staff Developer Evangelist at Twilio*, have worked previously as Cloud, DevOps and Solutions Engineer and have been in the tech industry for *6 years*. I am passionate about helping people get into cloud and sharing my learnings in Cloud, DevOps and now Developer Relations.",
+    "I am a 2nd-year BTech student at Graphic Era Hill University, Dehradun. I am passionate about *software development, and problem-solving*. Currently, I am exploring backend and frontend development while expanding my knowledge in AI and cloud platforms. I have experience with *Python, C, C++, MySQL, MongoDB, and GCP*, and I enjoy solving complex problems through efficient code and system design. I am always *looking for opportunities to grow and contribute to innovative projects*.",
   socials: [
     {
-      label: "YouTube",
-      link: "https://youtube.com/@rishabincloud",
-    },
-    {
-      label: "X",
-      link: "https://twitter.com/rishabincloud",
-    },
-    {
       label: "LinkedIn",
-      link: "https://linkedin.com/in/rishabkumar7",
+      link: "https://linkedin.com/in/ashokkmt",
     },
     {
       label: "GitHub",
-      link: "https://github.com/rishabkumar7",
+      link: "https://github.com/ashokkmt",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/rishabincloud",
+      label: "StackOverflow",
+      link: "https://stackoverflow.com/users/22745165/november",
     },
   ],
 };
