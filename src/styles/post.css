@@ -2,10 +2,6 @@
   @apply leading-7;
 }
 
-.post code {
-  @apply rounded-sm bg-neutral-800 px-1 py-[2px] text-orange-500;
-}
-
 .post h2 {
   @apply mt-6 text-3xl text-neutral-100;
 }
@@ -23,8 +19,10 @@
 }
 
 .post ul {
-  @apply list-disc;
+  @apply list-disc pl-6 space-y-2;
+  list-style-type: disc !important;
 }
+
 
 .post blockquote {
   @apply flex flex-row gap-2 before:block before:h-auto before:w-1 before:max-w-[1px] before:bg-red-400 before:content-[''];
@@ -41,3 +39,14 @@
 a:hover {
   color: theme('colors.hover-color');
 }
+
+.custom-highlight {
+  @apply text-yellow-400;
+}
+
+.custom-highlight2 {
+  @apply text-blue-400;
+}
+
+
+
