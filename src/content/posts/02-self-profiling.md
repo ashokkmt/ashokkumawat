@@ -6,7 +6,7 @@ slug: "self-profiling"
 isPublish: true
 ---
 
-## **SWOC Analysis**
+## **Self Profiling Sheet**
 
 ### Q1. Define strengths and weaknesses each in a sentence.
 - **Strength:** Strength is the ability to perform well in a particular area, like <span className = "custom-highlight"> problem-solving, communication, or adaptability</span>.  
