@@ -3,21 +3,21 @@ import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
 import formatDate from "@/utils/formatDate";
 
-const posts = (await getCollection("posts"))
+const posts = (await getCollection("posts", ({ data }) => data.learning === true))
   .sort((first, second) => first.data.publishedAt.getTime() - second.data.publishedAt.getTime()
   );
 ---
 
 <Layout title=" Learnings">
   <main class="flex flex-col gap-20">
-    <h1 class="text-2xl text-neutral-100">All Posts</h1>
+    <h1 class="text-2xl text-neutral-100">Learnings</h1>
 
     <article class="flex flex-col gap-4">
       {
         posts.map((post) => (
           <a
             class="group flex flex-col gap-2 border-t border-neutral-700 py-4 transition-all hover:text-neutral-100"
-            href={`/posts/${post.slug}`}
+            href={`/learnings/${post.slug}`}
           >
             <div class="flex w-full items-center justify-between">
               <h2 class="text-lg">{post.data.title}</h2>

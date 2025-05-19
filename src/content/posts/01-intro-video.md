@@ -4,6 +4,7 @@ publishedAt: 2025-02-20
 description: "My Introduction Video"
 slug: "self-introduction"
 isPublish: true
+learning: false
 ---
 
 ## **My Introduction**

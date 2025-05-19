@@ -30,6 +30,10 @@ const presentation: Presentation = {
       label: "StackOverflow",
       link: "https://stackoverflow.com/users/22745165/november",
     },
+    {
+      label: "Credly",
+      link: "https://www.credly.com/users/ashokkmt",
+    },
   ],
 };
 

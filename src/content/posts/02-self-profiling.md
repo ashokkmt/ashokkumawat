@@ -4,6 +4,7 @@ publishedAt: 2025-02-24
 description: "Q&A about strengths, weaknesses, and personal growth"
 slug: "self-profiling"
 isPublish: true
+learning: false
 ---
 
 ## **Self Profiling Sheet**

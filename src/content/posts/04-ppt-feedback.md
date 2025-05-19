@@ -1,9 +1,10 @@
 ---
-title: "Week - 4"
+title: "How to create a good PPT?"
 publishedAt: 2025-02-28
 description: "Minor mistakes while making PPTs"
 slug: "ppt-feedback"
 isPublish: true
+learning: true
 ---
 
 ## 📚 What I Learned from Our PESE Presentation Class 🎤

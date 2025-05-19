@@ -4,6 +4,7 @@ publishedAt: 2025-02-28
 description: "Movie Review of The Shawshank Redemption"
 slug: "movie-review"
 isPublish: true
+learning: false
 ---
 
 ## Movie Review: The Shawshank Redemption
