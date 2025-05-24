@@ -7,11 +7,11 @@ isPublish: true
 learning: true
 ---
 
-# Common Errors to be Avoided in Letters and Emails
+## Common Errors to be Avoided in Letters 📮 and Emails 📧
 
-In our recent class on letters and emails, we learned how important it is to communicate clearly and professionally. Writing a letter or email is not just about putting words on paper but making sure the message is correct, polite, and easy to understand. This is especially true for cover letters and professional emails, which create the first impression for jobs or official communication.
+In our recent class on letters and emails, we learned how important it is to communicate clearly and professionally. Writing <span className = "custom-highlight">an email or letter is not just about putting words on paper</span> but making sure the message is correct, polite, and easy to understand. This is especially true for cover letters and professional emails, which create the first impression for jobs or official communication.
 
-Some important points we discussed are:
+### 🛑 Some important points we discussed are:
 
 - A cover letter should be clear, concise, and directly related to the job or purpose.  
 - The email or letter should have a formal greeting and closing.  
@@ -19,7 +19,7 @@ Some important points we discussed are:
 - Keep the content focused and relevant, avoiding unnecessary details.  
 - Use a simple and polite tone to make a positive impression.  
 
-## Detailed Common Errors in Letters and Emails:
+### ⚠️ Detailed Common Errors:
 
 - Spellings  
 - Punctuations  
@@ -43,4 +43,4 @@ Some important points we discussed are:
 - Sending emails without a proper greeting or signature  
 - Writing cover letters that are generic and not personalized to the job or company  
 
-This class made me realize that a well-written letter or email can open many doors. Paying attention to details like tone, structure, and correctness helps to communicate your message effectively and professionally. I’ll be more careful with these points when writing letters or emails in the future.
+This class made me realize that a well-written letter or email can open many doors. <span className = "custom-highlight">Paying attention to details like tone, structure, and correctness helps to communicate your message effectively and professionally</span>. I’ll be more careful with these points when writing letters or emails in the future.

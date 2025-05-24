@@ -1,30 +1,30 @@
 ---
 title: "Speech and Extempore"
 publishedAt: 2025-04-30
-description: "Topic of speech and extempore"
+description: "Types of topic of speech and extempore"
 slug: "speech-extempore"
 isPublish: true
 learning: true
 ---
 
-# Speech and Extempore Topics – Important Points and Common Mistakes
+## 🗣️ Speech and Extempore
 
-In our recent class on Speech and Extempore, we learned how topics can be divided into different types like factual, abstract, opinion-based, and case-based. For example, a topic like **“Color of Life”** can be approached in many ways depending on the type. Understanding these types helps us prepare better and speak confidently on any topic.
+In our recent class on Speech and Extempore, we learned how topics can be divided into different types like factual, abstract, opinion-based, and case-based. For example, a topic like <span className = "custom-highlight">**“Color of Life”**</span> can be approached in many ways depending on the type. Understanding these types helps us prepare better and speak confidently on any topic.
 
-## Important Points
+### 🛑 Important Points
 
-- **Factual topics** require you to present facts and real information.  
-- **Abstract topics** ask you to explain ideas or concepts that are not concrete.  
-- **Opinion-based topics** want you to share your personal views or beliefs.  
-- **Case-based topics** focus on real-life examples or situations related to the topic.  
-- **Stand properly and use your body language to engage the audience.**  
+- <span className = "custom-highlight2">***Factual topics***</span> require you to present facts and real information.  
+- <span className = "custom-highlight2">***Abstract topics***</span> ask you to explain ideas or concepts that are not concrete.  
+- <span className = "custom-highlight2">***Opinion-based topics***</span> want you to share your personal views or beliefs.  
+- <span className = "custom-highlight2">***Case-based topics***</span> focus on real-life examples or situations related to the topic.  
+- **Stand properly and <span className = "custom-highlight2">use your body language to engage the audience.**</span>  
 
-## Common Mistakes
+### ❎ Common Mistakes
 
-- Not understanding the type of topic before speaking.  
+- <span className = "custom-highlight3">Not understanding the type of topic</span> before speaking.  
 - Speaking too fast or too slow, which confuses the audience.  
 - Using complicated words that are hard to follow.  
-- Going off-topic and losing the main point.  
+- <span className = "custom-highlight3">Going off-topic</span> and losing the main point.  
 - Not organizing thoughts clearly, leading to a messy speech.  
 - Ignoring body language and failing to make eye contact.  
 

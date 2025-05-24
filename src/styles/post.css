@@ -48,5 +48,8 @@ a:hover {
   @apply text-blue-400;
 }
 
+.custom-highlight3 {
+  @apply text-red-400;
+}
 
 
