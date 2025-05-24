@@ -1,6 +1,6 @@
 ---
 title: "How to create a good PPT?"
-publishedAt: 2025-02-28
+publishedAt: 2025-03-05
 description: "Minor mistakes while making PPTs"
 slug: "ppt-feedback"
 isPublish: true

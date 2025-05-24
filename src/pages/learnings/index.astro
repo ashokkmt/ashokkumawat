@@ -11,6 +11,17 @@ const posts = (await getCollection("posts", ({ data }) => data.learning === true
 <Layout title=" Learnings">
   <main class="flex flex-col gap-20">
     <h1 class="text-2xl text-neutral-100">Learnings</h1>
+    <div class="w-full rounded-2xl border border-neutral-700 bg-neutral-900/60 p-5 text-neutral-200 shadow-lg space-y-2">
+  <div class="flex items-center gap-1">
+    <img src="/note-icon.png" alt="Note Icon" class="w-10 h-10 object-contain m-0 p-0" />
+    <h2 class="text-base font-semibold text-yellow-400">Note</h2>
+  </div>
+
+  <p class="text-sm text-neutral-300 leading-relaxed pl-3">
+     Each post below contains more than 5 individual learnings, adding up to a total of around 25 key takeaways.
+  </p>
+</div>
+
 
     <article class="flex flex-col gap-4">
       {
