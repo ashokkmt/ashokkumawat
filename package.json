@@ -1,5 +1,5 @@
 {
-  "name": "astro--portfolio",
+  "name": "astro-portfolio",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -19,6 +19,9 @@
     "astro-robots-txt": "^1.0.0",
     "astro-seo": "0.8.0",
     "tailwindcss": "^3.3.3"
+  },
+  "engines": {
+    "node": ">=18.20.8"
   },
   "devDependencies": {
     "@typescript-eslint/parser": "5.59.7",
