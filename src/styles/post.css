@@ -52,4 +52,31 @@ a:hover {
   @apply text-red-400;
 }
 
+/* .custom-head{
+  @apply text-center mt-4 text-3xl text-neutral-100;
+} */
 
+.view-files {
+  @apply w-full max-w-full sm:max-w-md md:max-w-xl lg:max-w-2xl xl:max-w-3xl 
+         max-h-[500px] overflow-y-auto rounded-2xl border border-neutral-700 
+         bg-neutral-900/60 p-4 mx-auto flex flex-col items-center gap-4 m-4;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.view-files::-webkit-scrollbar {
+  display: none;
+}
+
+.view-files img {
+  @apply w-full rounded-3xl p-2 shadow-sm cursor-pointer;
+}
+
+.view-files::-webkit-scrollbar {
+  display: none;
+}
+
+.view-files {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}

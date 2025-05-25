@@ -7,9 +7,17 @@ isPublish: true
 learning: false
 ---
 
-[View Certificate](/letter1.pdf)
-
 ## **Self Profiling Sheet**
+
+<div className= "view-files">
+
+![Image 1](https://raw.githubusercontent.com/ashokkmt/ashokkumawat/refs/heads/main/public/sheet1.jpg)
+![Image 1](https://raw.githubusercontent.com/ashokkmt/ashokkumawat/refs/heads/main/public/sheet2.jpg)
+![Image 1](https://raw.githubusercontent.com/ashokkmt/ashokkumawat/refs/heads/main/public/sheet3.jpg)
+![Image 1](https://raw.githubusercontent.com/ashokkmt/ashokkumawat/refs/heads/main/public/sheet4.jpg)
+![Image 1](https://raw.githubusercontent.com/ashokkmt/ashokkumawat/refs/heads/main/public/sheet5.jpg)
+
+</div>
 
 ### Q1. Define strengths and weaknesses each in a sentence.
 - **Strength:** Strength is the ability to perform well in a particular area, like <span className = "custom-highlight"> problem-solving, communication, or adaptability</span>.  
