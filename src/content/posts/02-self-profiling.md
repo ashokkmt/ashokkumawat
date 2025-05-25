@@ -7,7 +7,7 @@ isPublish: true
 learning: false
 ---
 
-![Alt text](/letter1.jpg)
+[View Certificate](/letter1.pdf)
 
 ## **Self Profiling Sheet**
 
