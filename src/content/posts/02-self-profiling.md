@@ -7,6 +7,8 @@ isPublish: true
 learning: false
 ---
 
+![Alt text](/letter1.jpg)
+
 ## **Self Profiling Sheet**
 
 ### Q1. Define strengths and weaknesses each in a sentence.
