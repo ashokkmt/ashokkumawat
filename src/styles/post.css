@@ -80,3 +80,10 @@ a:hover {
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
+
+.download-btn {
+  @apply w-[30%] inline-block rounded-xl border border-neutral-700 bg-neutral-800 
+         px-4 py-2 text-sm text-white shadow-md hover:bg-neutral-700 
+         transition duration-200 ease-in-out text-center no-underline;
+}
+

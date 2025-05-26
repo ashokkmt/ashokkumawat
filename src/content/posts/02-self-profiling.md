@@ -1,5 +1,5 @@
 ---
-title: "Week - 2"
+title: "Self Profiling Sheet"
 publishedAt: 2025-02-24
 description: "Q&A about strengths, weaknesses, and personal growth"
 slug: "self-profiling"
@@ -17,6 +17,12 @@ learning: false
 ![Image 1](https://raw.githubusercontent.com/ashokkmt/ashokkumawat/refs/heads/main/public/sheet4.jpg)
 ![Image 1](https://raw.githubusercontent.com/ashokkmt/ashokkumawat/refs/heads/main/public/sheet5.jpg)
 
+</div>
+
+<div class="flex justify-center mt-3">
+  <a href="/sheet1.pdf" download class="download-btn no-underline">
+    📥 Download Self Profiling PDF
+  </a>
 </div>
 
 ### Q1. Define strengths and weaknesses each in a sentence.
