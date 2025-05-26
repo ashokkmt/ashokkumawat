@@ -26,7 +26,7 @@ type Props = {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
-const title = `Learning ${post.data.title}`;
+const title = `${post.data.title}`;
 ---
 
 <Layout title={title}  description={post.data.description}>
