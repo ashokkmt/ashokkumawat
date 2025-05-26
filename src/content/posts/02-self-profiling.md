@@ -9,6 +9,16 @@ learning: false
 
 ## **Self Profiling Sheet**
 
+<div class="flex flex-col self-center mt-5">
+<div class="w-fit rounded-2xl border border-neutral-700 bg-neutral-900/60 p-3 text-neutral-200 shadow-lg space-y-2">
+
+  <p class="text-sm text-neutral-300 leading-relaxed pl-3">
+     Scroll down on box to view all images
+  </p>
+</div>
+</div>
+
+
 <div className= "view-files">
 
 ![Image 1](https://raw.githubusercontent.com/ashokkmt/ashokkumawat/refs/heads/main/public/sheet1.jpg)
