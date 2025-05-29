@@ -4,7 +4,7 @@ import Layout from "@/layouts/Layout.astro";
 import formatDate from "@/utils/formatDate";
 
 const posts = (await getCollection("posts", ({ data }) => data.learning === false))
-  .sort((first, second) => first.data.publishedAt.getTime() - second.data.publishedAt.getTime());
+  .sort((first, second) => second.data.publishedAt.getTime() - first.data.publishedAt.getTime());
 
 ---
 
