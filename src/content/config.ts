@@ -8,7 +8,7 @@ const postsCollection = defineCollection({
     description: z.string(),
     isPublish: z.boolean(),
     isDraft: z.boolean().default(false),
-    learning: z.boolean().default(false),
+    category: z.enum(["learning", "general"]).default("general"),
   }),
 });
 

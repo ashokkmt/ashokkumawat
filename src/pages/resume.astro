@@ -1,0 +1,32 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Resume">
+  <main class="flex flex-col gap-6">
+    <div class="flex flex-row items-center justify-center gap-3">
+      <a
+        href="/"
+        class="inline-flex w-fit rounded-md border border-neutral-700 bg-neutral-900 px-3 py-1.5 text-sm text-neutral-200 transition hover:border-neutral-500 hover:bg-neutral-800 hover:text-neutral-100"
+      >
+        Back to Home
+      </a>
+
+      <a
+        href="/resume.pdf"
+        target="_blank"
+        rel="noreferrer"
+        class="inline-flex w-fit rounded-md border border-neutral-700 bg-neutral-900 px-3 py-1.5 text-sm text-neutral-200 transition hover:border-neutral-500 hover:bg-neutral-800 hover:text-neutral-100"
+      >
+        Download Resume
+      </a>
+    </div>
+
+    <iframe
+      src="/resume.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH"
+      title="Resume PDF"
+      scrolling="no"
+      class="block w-full border-0 aspect-[8.5/11]"
+    />
+  </main>
+</Layout>

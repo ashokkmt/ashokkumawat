@@ -31,13 +31,36 @@ const title = `${post.data.title}`;
 
 <Layout title={title}  description={post.data.description}>
   <main class="post mx-auto flex w-full max-w-[820px] flex-col gap-4">
-    <header role="presentation">
-      <h1 class="text-md">
+    <header role="presentation" class="mb-2 flex flex-col gap-3">
+      <div class="mb-1 flex justify-center">
+        <button
+          id="back-button"
+          type="button"
+          class="inline-flex w-fit rounded-md border border-neutral-700 bg-neutral-900 px-3 py-1.5 text-sm text-neutral-200 transition hover:border-neutral-500 hover:bg-neutral-800 hover:text-neutral-100"
+        >
+          Back
+        </button>
+      </div>
+
+      <time datetime={post.data.publishedAt.toISOString()} class="text-sm text-neutral-300">
         {formatDate(post.data.publishedAt)}
-      </h1>
+      </time>
       <p class="italic">{post.data.description}</p>
     </header>
 
     <Content />
   </main>
+
+  <script is:inline>
+    const backButton = document.getElementById("back-button");
+
+    backButton?.addEventListener("click", () => {
+      if (window.history.length > 1) {
+        window.history.back();
+        return;
+      }
+
+      window.location.assign("/learning");
+    });
+  </script>
 </Layout>

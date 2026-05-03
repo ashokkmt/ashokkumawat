@@ -2,6 +2,10 @@
   @apply leading-7;
 }
 
+.post h1 {
+  @apply mt-8 text-4xl text-neutral-100;
+}
+
 .post h2 {
   @apply mt-6 text-3xl text-neutral-100;
 }

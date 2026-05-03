@@ -8,16 +8,27 @@ const posts = (await getCollection("posts"))
   );
 ---
 
-<Layout title="All Posts">
-  <main class="flex flex-col gap-20">
-    <h1 class="text-2xl text-neutral-100">All Posts</h1>
+<Layout title="Learning">
+  <main class="flex flex-col gap-8">
+    <div class="mb-1 flex justify-center">
+      <a
+        href="/"
+        class="inline-flex w-fit rounded-md border border-neutral-700 bg-neutral-900 px-3 py-1.5 text-sm text-neutral-200 transition hover:border-neutral-500 hover:bg-neutral-800 hover:text-neutral-100"
+      >
+        Back to Home
+      </a>
+    </div>
+
+    <div class="flex flex-col gap-4">
+      <h1 class="text-2xl text-neutral-100">Learning</h1>
+    </div>
 
     <article class="flex flex-col gap-4">
       {
         posts.map((post) => (
           <a
             class="group flex flex-col gap-2 border-t border-neutral-700 py-4 transition-all hover:text-neutral-100"
-            href={`/posts/${post.slug}`}
+            href={`/learning/${post.slug}`}
           >
             <div class="flex w-full items-center justify-between">
               <h2 class="text-lg">{post.data.title}</h2>

@@ -8,7 +8,7 @@ export type Project = {
 const projects: Project[] = [
   {
     title: "Portfolio Theme using Astro",
-    techs: ["Astro", "Cloudfare", "Tailwind"],
+    techs: ["Astro", "Cloudflare", "Tailwind"],
     link: "https://github.com/ashokkmt/ashokkumawat",
   },
   {
@@ -18,8 +18,18 @@ const projects: Project[] = [
   },
   {
     title: "SketchCode",
-    techs: ["ReactFlow", "Cloudfare", "TailwindCSS", "HackaHolic 3.0"],
+    techs: ["ReactFlow", "Cloudflare", "TailwindCSS", "HackaHolic 3.0"],
     link: "https://github.com/ashokkmt/SketchCode",
+  },
+  {
+    title: "HomeSphere",
+    techs: ["React", "Node.js", "MongoDB", "Cloud"],
+    link: "https://github.com/ashokkmt/homesphere",
+  },
+  {
+    title: "Civic Connect",
+    techs: ["Full Stack", "Real-time", "MongoDB"],
+    link: "https://github.com/ashokkmt/civic-connect",
   },
 ];
 
